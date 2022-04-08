@@ -10,7 +10,7 @@ PyBer ride sharing data for the year 2019 were analyzed in order to find ways to
 ## Results
 In this section, each components of the results generated from the analysis will be discussed in detail but the figure below illustrates the overview of the PyBer ride sharing data for the year 2019 by comparing the total number of rides per city and the average fare. Based on the figure, the average fare tends to be higher in rural cities compared to urban cities. In addition, the total number of rides are a lot lower in rural cities in contrast with urban cities, while the average fare and total number of rides in suburban cities tend to cluster in the middle. 
 
-![PyBer Ride-Sharing Data Snapshot](https://https://github.com/kntln/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+![PyBer Ride-Sharing Data Snapshot](https://github.com/kntln/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 ### Percentage of Total Fares by City Type
 As evident from the figure below, urban cities had the highest percentage of total fares by city type which is 62.7% followed by suburban cities which had 30.5% and lastly, rural cities which had 6.8%.
